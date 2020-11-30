@@ -1,7 +1,21 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <LangVersion>9</LangVersion>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\ConfigModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenMod.Extensions.Economy.Abstractions" Version="2.3.8.2" />
+    <PackageReference Include="OpenMod.Extensions.Games.Abstractions" Version="2.3.8" />
+    <PackageReference Include="OpenMod.Extensions.PlayerLibrary.Abstractions" Version="1.0.1" />
+    <PackageReference Include="OpenMod.SqlSugarCore" Version="2.3.8.2" />
+    <PackageReference Include="OpenMod.Unturned" Version="2.3.8.2" />
+    <PackageReference Include="OpenMod.Unturned.Redist" Version="3.20.14" />
+  </ItemGroup>
 
 </Project>

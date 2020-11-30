@@ -49,6 +49,30 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "OpenMod.Extensions.Economy.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.8.2, )"
+            },
+            "OpenMod.Extensions.Games.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.8, )"
+            },
+            "OpenMod.Extensions.PlayerLibrary.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "OpenMod.SqlSugarCore": {
+              "target": "Package",
+              "version": "[2.3.8.2, )"
+            },
+            "OpenMod.Unturned": {
+              "target": "Package",
+              "version": "[2.3.8.2, )"
+            },
+            "OpenMod.Unturned.Redist": {
+              "target": "Package",
+              "version": "[3.20.14, )"
             }
           },
           "imports": [

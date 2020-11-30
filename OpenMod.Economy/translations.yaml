@@ -1,0 +1,17 @@
+﻿economy:
+  default:
+    payment_reason: "Not specified"
+  fail:
+    invalid_amount: "Invalid amount: {Amount}"
+    invalid_default_balance: "Invalid default balance: {Balance}"
+    invalid_store_type: "Invalid store type: {StoreType} available types: {StoreTypes}"
+    not_enough_balance: "You don't have enough balance. Current balance: {Balance}{CurrencySymbol}"
+    self_pay: "You can not pay to yourself."
+    user_not_found: "'{Target}' user not found."
+  success:
+    show_balance: "Your balance: {Balance}{CurrencySymbol}."
+    show_balance_other: "{DisplayName}'s balance: {Balance}{CurrencySymbol}."
+    pay_player: "You payed {Amount} {CurrencyName} to {DisplayName}, your new balance {Balance}{CurrencySymbol}."
+    pay_console: "You changed the {DisplayName} balance by {Amount} {CurrencyName}, the new balance is {Balance}{CurrencySymbol}."
+    payed: "You receive a {Amount} {CurrencyName} payment from {DisplayName}, your new balance {Balance}{CurrencySymbol}."
+    payed_negative: "Your balance was withdrawn {Amount} {CurrencyName} by {DisplayName}, your new balance {Balance}{CurrencySymbol}."

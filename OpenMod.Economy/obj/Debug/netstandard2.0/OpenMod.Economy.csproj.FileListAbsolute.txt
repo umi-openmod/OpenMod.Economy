@@ -1,0 +1,9 @@
+E:\Repos\OpenMod.Economy\OpenMod.Economy\bin\Debug\netstandard2.0\OpenMod.Economy.deps.json
+E:\Repos\OpenMod.Economy\OpenMod.Economy\bin\Debug\netstandard2.0\OpenMod.Economy.dll
+E:\Repos\OpenMod.Economy\OpenMod.Economy\bin\Debug\netstandard2.0\OpenMod.Economy.pdb
+E:\Repos\OpenMod.Economy\OpenMod.Economy\obj\Debug\netstandard2.0\OpenMod.Economy.AssemblyInfoInputs.cache
+E:\Repos\OpenMod.Economy\OpenMod.Economy\obj\Debug\netstandard2.0\OpenMod.Economy.AssemblyInfo.cs
+E:\Repos\OpenMod.Economy\OpenMod.Economy\obj\Debug\netstandard2.0\OpenMod.Economy.csproj.CoreCompileInputs.cache
+E:\Repos\OpenMod.Economy\OpenMod.Economy\obj\Debug\netstandard2.0\OpenMod.Economy.dll
+E:\Repos\OpenMod.Economy\OpenMod.Economy\obj\Debug\netstandard2.0\OpenMod.Economy.pdb
+E:\Repos\OpenMod.Economy\OpenMod.Economy\obj\Debug\netstandard2.0\OpenMod.Economy.csprojAssemblyReference.cache

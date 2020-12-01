@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenMod.Economy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenMod.Economy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenMod.Economy")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("2.0.1.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

@@ -1,13 +1,9 @@
-﻿{
-    "Database": {
-        "ConfigId ": 1,
-        "DbType ": "MySql",
-        "ConnectionString ": "SERVER=127.0.0.1;DATABASE=Unturned;UID=root;PASSWORD='';PORT=3306;",
-        "EconomyTable": "Economy"
-    },
-    "Economy": {
-        "CurrencyName": "Cash",
-        "CurrencySymbol": "$",
-        "Default_Balance": 300
-    }
-}
+﻿Database : 
+  ConfigId : "1"
+  DbType : "MySql"
+  ConnectionString : "SERVER=127.0.0.1;DATABASE=Unturned;UID=root;PASSWORD='';PORT=3306;"
+  EconomyTable : "Economy"
+Economy : 
+  CurrencyName : "Cash"
+  CurrencySymbol : "$"
+  Default_Balance : 300

@@ -32,12 +32,12 @@ namespace OpenMod.Economy
             this.economyRepository = economyRepository;
             this.playerLibraryProvider = playerLibraryProvider;
 
-            Default_Balance = Configuration.GetSection("Economy:Default_Balance").Get<decimal>();
+            Default_Balance = Configuration.GetSection("Economy").GetSection("Default_Balance").Get<decimal>();
         }
 
         protected override async Task OnLoadAsync()
         {
-            string EconomyTable = Configuration.GetSection("Database:EconomyTable").Get<string>();
+            string EconomyTable = Configuration.GetSection("Database").GetSection("EconomyTable").Get<string>();
             if (!sqlSugarClient.DbMaintenance.IsAnyTable(EconomyTable))
             {
                 sqlSugarClient.CodeFirst.InitTables<EconomyModel>();

@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "OpenMod.Economy/1.0.0": {
+      "OpenMod.Economy/2.0.1": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "OpenMod.Extensions.Economy.Abstractions": "2.3.8.2",
@@ -1649,7 +1649,7 @@
     }
   },
   "libraries": {
-    "OpenMod.Economy/1.0.0": {
+    "OpenMod.Economy/2.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
